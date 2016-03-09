@@ -1,0 +1,4 @@
+An ant colony may be legitimately called a superorganism because its communication system is so highly organized that the colony always works as a whole and appropriately according to the circumstances.
+Hubbell and Johnson studied several species of stingless bees to determine whether there is a relationship between aggressiveness and patterns of colony distribution.
+Though Hubbell and Johnson were interested in how bee behavior might affect colony distributions, they recognized that the availability of potential nest sites for colonies could also affect distributions.
+The pheromone secreted by these stingless bees attracts and aggregates members of their colony to the prospective nest site; however, it also attracts workers from other nests.

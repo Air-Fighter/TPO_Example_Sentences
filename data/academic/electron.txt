@@ -1,0 +1,23 @@
+These forces were the rapidly expanding electronics and telecommunications companies that were developing and linking telephone and wireless technologies in the 1920s.
+Then a strong current of electrons follows that path from the cloud to the ground, and it is that current that illuminates the channel as the lightning we see.
+The formation of the channel is initiated when electrons surge from the cloud base toward the ground.
+When a stream of these negatively charged electrons comes within 100 meters of the ground it is met by a stream of positively charged particles that comes up from the ground.
+The channel is only a few centimeters in diameter, but that is wide enough for electrons to follow the channel to the ground in the visible form of a flash of lightning.
+The stream of positive particles that meets the surge of electrons from the cloud often arises from a tall pointed structure such as a metal flagpole or a tower.
+Once a channel has been formed, it is usually used by several lightning discharges, each of them consisting of a stream of electrons from the cloud meeting a stream of positive particles along the established path.
+Sometimes, however, a stream of electrons following an established channel is met by a positive stream making a new path up from the ground.
+Our knowledge of cell structure took a giant leap forward as biologists began using the electron microscope in the 1950s.
+Instead of light, the electron microscope uses a beam of electrons and has a much higher resolving power than the light microscope.
+In fact, the most powerful modern electron microscopes can distinguish objects as small as 0.2 nanometers, a thousandfold improvement over the light microscope.
+Only under special conditions can electron microscopes detect individual atoms.
+Biologists use the scanning electron microscope to study the detailed architecture of cell surfaces.
+It uses an electron beam to scan the surface of a cell or group of cells that have been coated with metal.
+When the metal is hit by the beam, it emits electrons.
+The electrons are focused to form an image of the outside of the cells.
+The scanning electron microscope produces images that look three-dimensional. 
+The transmission electron microscope, on the other hands, is used to study the details of internal cell structure.
+Specimens are cut into extremely thin sections, and the transmission electron microscope aims an electron beam through a section, just as a light microscope aims a beam of light through a specimen.
+However, instead of lenses made of glass, the transmission electron microscope uses electromagnets as lenses, as do all electron microscopes.
+The electromagnets bend the electron beam to magnify and focus an image onto a viewing screen or photographic film.
+One problem with electron microscopes is that they cannot be used to study living specimens because the specimen must be held in a vacuum chamber; that is, all the air and liquid must be removed.
+For a biologist studying a living process, such as the whirling movement of a bacterium, a light microscope equipped with a video camera might be better than either a scanning electron microscope or a transmission electron microscope.
