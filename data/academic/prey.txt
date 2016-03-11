@@ -1,11 +1,9 @@
-Parasitism is a kind of predator-prey relationship in which one organism, the parasite, derives its food at the expense of its symbiotic associate, the host.
 How do predetors affect populations of the prey animals?
 When experimental populations are set up under simple laboratory conditions, the predator often exterminates its prey and then becomes extinct itself, having nothing left to eat.
 However, if safe areas like those prey animals have in the wild are provided, the prey population drops to low levels but not to extinction.
 Low prey population levels then provide inadequate food for the predators, causing the predator population to decrease.
 When this occurs, the prey population can rebound.
 In this situation the predator and prey populations may continue in this cyclical pattern for some time.
-What causes the predator-prey oscillations?
 For example, sea stars prey on a variety of bivalve mollusks and prevent these bivalves from monopolizing habitats on the sea floor.
 Smith believes that the hunters were well aware of the more disciplined ways in which their prey behaved.
 The ants prey on the adult beetles, disturb females as they lay their eggs on developing fruits, and eat many of the eggs they do manage to lay. 

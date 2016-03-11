@@ -1,13 +1,5 @@
-A closely related theory sees theater as evolving out of dances that are primarily pantomimic, rhythmical or gymnastic, or from imitations of animal noises and sounds.
-Consequently, the timing and rhythms of biological functions must closely match periodic events like the solar day, the tides, the lunar cycle, and the seasons.
-The relations between animal activity and these periods, particularly for the daily rhythms, have been of such interest and importance that a huge amount of work has been done on them and the special research field of chronobiology has emerged.
-Normally, the constantly changing levels of an animal's activity  sleeping, feeding, moving, reproducing, metabolizing, and producing enzymes and hormones, for example  are well coordinated with environmental rhythms, but the key question is whether the animal's schedule is driven by external cues, such as sunrise or sunset, or is instead dependent somehow on internal timers that themselves generate the observed biological rhythms.
-The continuation of biological rhythms in an organism without external cues attests to its having an internal clock.
 Horseshoe crabs kept in the dark continuously for a year were found to maintain a persistent rhythm of brain activity that similarly adapts their eyes on a daily schedule for bright or for weak light.
 Such a rhythm whose period is approximately  but not exactly  a day is called circadian.
-Further evidence for persistent internal rhythms appears when the usual external cycles are shifted  either experimentally or by rapid east-west travel over great distances.
 The disorienting effects of this mismatch between external time cues and internal schedules may persist, like our jet lag, for several days or weeks until certain cues such as the daylight/darkness cycle reset the organism's clock to synchronize with the daily rhythm of the new environment.
-Such an external cue not only coordinates an animal's daily rhythms with particular features of the local solar day but also  because it normally does so day after day-seems to keep the internal clock's period close to that of Earth's rotation.
 Even a fifteen-minute burst of light in otherwise sustained darkness can reset an animal's circadian rhythm.
-Normally, internal rhythms are kept in step by regular environmental cycles.
 The term retreat is applied to the short-term escape behavior of desert animals, and it usually assumes the pattern of a daily rhythm.

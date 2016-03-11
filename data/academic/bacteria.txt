@@ -1,5 +1,4 @@
 Almost universally, biologists accept the idea that all eukaryotes (a category that includes most organisms except bacteria and certain algae) have internal clocks.
-As an example, plants make chemicals toxic to fungal and bacterial parasites, along with ones toxic to predatory animals (sometimes they are the same chemicals).
 Legume plants and their nitrogen-fixing bacteria, and the interactions between flowering plants and their pollinators, are examples of mutualistic association.
 In the first case, the plants provide the bacteria with carbohydrates and other organic compounds, and the bacteria have enzymes that act as catalysts that eventually add nitrogen to the soil, enriching it.
 Attack by scavengers and bacteria, chemical decay, and destruction by erosion and other geologic agencies make the odds against preservation very high.

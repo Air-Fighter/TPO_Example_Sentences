@@ -1,6 +1,2 @@
-Another class of metabolite is the vitamins.
-It is now known that certain phytoplankton species have requirements for certain vitamins, and that there are considerable differences among species as to requirements.
 The B vitamins, especially vitamin B12, thiamine and biotin, seem to be the most generally required.
 Some species may be unable to thrive until a particular vitamin, or group of vitamins, is present in the water.
-These vitamins are produced only by another species; hence, a succession of species could occur whereby first the vitamin-producing species is present and then the vitamin-requiring species follows.
-Although it is suspected that these organic metabolites may have an important role in species succession and it has been demonstrated in the laboratory that phytoplankton species vary both in their ability to produce necessary vitamins and in their requirements for such in order to grow, evidence is still inadequate as to their real role in the sea.

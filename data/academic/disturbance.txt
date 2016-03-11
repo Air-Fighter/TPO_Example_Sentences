@@ -2,4 +2,3 @@ Alternatively, stability can be defined as the speed with which an ecosystem ret
 In the early twentieth century, the American ecologist Frederic Clements pointed out that a succession of plant communities would develop after a disturbance such as a volcanic eruption, heavy flood, or forest fire.
 Success in colonization depends to a great extent on there being a site available for colonization---a safe site where disturbance by fire or by cutting down of trees has either removed competing species or reduced levels of competition and other negative interactions to a level at which the invading species can become established.
 The rapid colonization of such sites after disturbance is undoubtedly in part a reflection of the large seed bank on the forest floor.
-Both of these, variability in responses and functional redundancy, could be thought of as insurance against disturbances.

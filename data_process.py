@@ -25,3 +25,4 @@ def write_file(path='./data/default/', word='default', sent_list=['just.', 'a.',
     file = open(path + word + '.txt', 'w')
     for sent in sent_list:
         file.write(sent + '\r\n')
+    file.close()

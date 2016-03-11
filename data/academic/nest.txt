@@ -1,35 +1,18 @@
-The commonest spaces are those among the particles  sand grains and tiny pebbles  of loose, unconsolidated sand and gravel.
-Some of the world  s finest stone architecture can be seen in the ruins of the ancient Inca city of Machu Picchu high in the eastern Andes Mountains of Peru.
 A classic example is noisy begging by nestling songbirds when a parent returns to the nest with food.
 These loud cheeps and peeps might give the location of the nest away to a listening hawk or raccoon, resulting in the death of the defenseless nestlings.
 In fact, when tapes of begging tree swallows were played at an artificial swallow nest containing an egg, the egg in that   noisy   nest was taken or destroyed by predators before the egg in a nearby quiet nest in 29 of 37 trials.
 Further evidence for the costs of begging comes from a study of differences in the begging calls of warbler species that nest on the ground versus those that nest in the relative safety of trees.
-The young of ground-nesting warblers produce begging cheeps of higher frequencies than do their tree-nesting relatives.
-These higher-frequency sounds do not travel as far, and so may better conceal the individuals producing them, who are especially vulnerable to predators in their ground nests.
-David Haskell created artificial nests with clay eggs and placed them on the ground beside a tape recorder that played the begging calls of either tree-nesting or of ground-nesting warblers.
-The eggs   advertised   by the tree-nesters' begging calls were found bitten significantly more often than the eggs associated with the ground-nesters' calls.
 The hypothesis that begging calls have evolved properties that reduce their potential for attracting predators yields a prediction: baby birds of species that experience high rates of nest predation should produce softer begging signals of higher frequency than nestlings of other species less often victimized by nest predators.
-Given that predators can make it costly to beg for food, what benefit do begging nestlings derive from their communications?
 One possibility is that a noisy baby bird provides accurate signals of its real hunger and good health, making it worthwhile for the listening parent to give it food in a nest where several other offspring are usually available to be fed.
-If this hypothesis is true, then it follows that nestlings should adjust the intensity of their signals in relation to the signals produced by their nestmates, who are competing for parental attention.
 When experimentally deprived baby robins are placed in a nest with normally fed siblings, the hungry nestlings beg more loudly than usual  but so do their better-fed siblings, though not as loudly as the hungrier birds.
 Indeed, if you take baby tree swallows out of a nest for an hour feeding half the set and starving the other half, when the birds are replaced in the nest, the starved youngsters beg more loudly than the fed birds, and the parent birds feed the active beggars more than those who beg less vigorously.
-But the question arises, why don't nestlings beg loudly when they aren't all that hungry?
-Therefore, a begging nestling that secures food at the expense of its siblings might actually leave behind fewer copies of its genes overall than it might otherwise.
-Birds shelter in nests, rock overhangs, trees, and dense shrubs to avoid the hottest hours of the day, while mammals like the kangaroo rat burrow underground.
-Without predators, the species that is the best competitor for food, shelter, nesting sites, and other environmental resources tends to dominate and exclude the species with which it competes.
 They studied competition and nest spacing in populations of stingless bees in tropical dry forests in Costa Rica.
-Though these bees do no sting, rival colonies of some species fight fiercely over potential nesting sites.
 They generally nest in trees and live in colonies made up of hundreds to thousands of workers.
-They concentrated their studies on a thirteen-hectare tract of tropical dry forest that contained numerous nests of nine species of stingless bees.
 Though Hubbell and Johnson were interested in how bee behavior might affect colony distributions, they recognized that the availability of potential nest sites for colonies could also affect distributions.
-So as one of the first steps in their study they mapped the distributions of trees suitable for nesting.
 They found that potential nest trees were distributed randomly through the study area.
 They also found that the number of potential nest sites was much greater than the number of bee colonies.
 The number of colonies in the study area was not limited by availability of suitable trees, and a clumped or regular distribution of colonies was not due to an underlying clumped or regular distribution of potential nest sites.
-Hubbell and Johnson mapped the nests of five of the nine species of stingless bees accurately, and the nests of four of these species were distributed regularly.
 All four species with regular nest distributions were highly aggressive to bees from other colonies of their own species.
-The fifth species was not aggressive, and its nests were randomly distributed over the study area.
 Their observations provide insights into the mechanisms that establish and maintain the regular nest distribution of these species.
 Aggressive species apparently mark prospective nest sites with pheromones, chemical substances secreted by some animals for communication with other members of their species.
 The pheromone secreted by these stingless bees attracts and aggregates members of their colony to the prospective nest site; however, it also attracts workers from other nests.
@@ -37,11 +20,8 @@ If workers from two different colonies arrive at the prospective nest at the sam
 The researchers observed battles over a nest tree that lasted for two weeks.
 Each dawn, fifteen to thirty workers from two competing colonies arrived at the contested nest site.
 While this contest over an unoccupied nest site produced no obvious mortality, fights over occupied nests sometimes kill over 1,000 bees in a single battle. 
-By the 1960s the raccoon had become a major predator of the canvasback ducks nesting in southwestern Manitoba.
 The actions of these potential nest predators could have reduced moa populations without leaving much direct evidence.
-Towns and cities were established not only as garrisons (military posts) but as centers for the diffusion of Greek language, literature, and thought, particularly through libraries, as at Antioch (in modern Turkey) and the most famous of all, at Alexandria in Egypt, which would be the finest in the world for the next thousand years.
 They do best when the relative humidity in their nest is above 96 percent and the temperature is fairly high, an optimum of about 79  F for temperate zone species and about 86  F for tropical species.
-Subterranean termites, the destructive species that occurs commonly throughout the eastern United States, attain these conditions by nesting in moist soil that is in contact with wood, their only food.
 The surrounding soil keeps the nest moist and tends to keep the temperature at a more or less favorable level.
 Some tropical termites are more ingenious engineers, constructing huge above-ground nests with built-in   air conditioning   that keeps the nest moist, at a constant temperature, and well supplied with oxygen.
 According to luscher, a medium-sized nest of Macrotermes has a population of about 2 million individuals.

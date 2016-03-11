@@ -33,7 +33,6 @@ One necessary condition seems to be a somewhat detached view of human problems.
 For example, one sign of this condition is the appearance of the comic vision, since comedy requires sufficient detachment to view some deviations from social norms as ridiculous rather than as serious threats to the welfare of the entire group.
 Another condition that contributes to the development of autonomous theater is the emergence of the aesthetic sense.
 For example, some early societies ceased to consider certain rites essential to their well-being and abandoned them, nevertheless, they retained as parts of their oral tradition the myths that had grown up around the rites and admired them for their artistic qualities rather than for their religious usefulness. 
-The transition from forest to treeless tundra on a mountain slope is often a dramatic one.
 Within a vertical distance of just a few tens of meters, trees disappear as a life-form and are replaced by low shrubs, herbs, and grasses.
 This rapid zone of transition is called the upper timberline or tree line.
 In many semiarid areas there is also a lower timberline where the forest passes into steppe or desert at its lower edge, usually because of a lack of moisture.
@@ -66,7 +65,6 @@ Desertification is accomplished primarily through the loss of stabilizing natura
 In other cases, the finer particles may be removed, while the sand-sized particles are accumulated to form mobile hills or ridges of sand. 
 Even in the areas that retain a soil cover, the reduction of vegetation typically results in the loss of the soil's ability to absorb substantial quantities of water.
 The impact of raindrops on the loose soil tends to transfer fine clay particles into the tiniest soil spaces, sealing them and producing a surface that allows very little water penetration.
-Water absorption is greatly reduced; consequently runoff is increased, resulting in accelerated erosion rates.
 The gradual drying of the soil caused by its diminished ability to absorb water results in the further loss of vegetation, so that a cycle of progressive surface deterioration is established. 
 In some regions, the increase in desert areas is occurring largely as the result of a trend toward drier climatic conditions.
 During the dry periods that are common phenomena along the desert margins, though, the pressure on the land is often far in excess of its diminished capacity, and desertification results. 
@@ -114,7 +112,6 @@ Today technology has progressed to the point where it is possible to invent new 
 Enormous changes in materials and techniques of construction within the last few generations have made it possible to enclose space with much greater ease and speed and with a minimum of material.
 Progress in this area can be measured by the difference in weight between buildings built now and those of comparable size built one hundred years ago.
 Modern architectural forms generally have three separate components comparable to elements of the human body: a supporting skeleton or frame, an outer skin enclosing the interior spaces, and equipment, similar to the body  s vital organs and systems.
-Of course in early architecture  such as igloos and adobe structures  there was no such equipment, and the skeleton and skin were often one.
 Much of the world  s great architecture has been constructed of stone because of its beauty, permanence, and availability.
 In the past, whole cities grew from the arduous task of cutting and piling stone upon.
 Some of the world  s finest stone architecture can be seen in the ruins of the ancient Inca city of Machu Picchu high in the eastern Andes Mountains of Peru.
@@ -141,7 +138,6 @@ It is estimated that at current withdrawal rates, much of the aquifer will run d
 The situation is most critical in Texas, where the climate is driest, the greatest amount of water is being pumped, and the aquifer contains the least water.
 It is projected that the remaining Ogallala water will, by the year 2030, support only 35 to 40 percent of the irrigated acreage in Texas that is supported in 1980.
 The reaction of farmers to the inevitable depletion of the Ogallala varies.
-Others, however, have adopted the philosophy that it is best to use the water while it is still economically profitable to do so and to concentrate on high-value crops such as cotton.
 The incentive of the farmers who wish to conserve water is reduced by their knowledge that many of their neighbors are profiting by using great amounts of water, and in the process are drawing down the entire region  s water supplies.
 In the face of the upcoming water supply crisis, a number of grandiose schemes have been developed to transport vast quantities of water by canal or pipeline from the Mississippi, the Missouri, or the Arkansas rivers. 
 Unfortunately, the cost of water obtained through any of these schemes would increase pumping costs at least tenfold, making the cost of irrigated agricultural products from the region uncompetitive on the national and international markets.
@@ -160,7 +156,6 @@ Stability can be defined as simply lack of change.
 This kind of stability is also called resilience.
 In that case, climax communities would be the most fragile and the least stable, since they can require hundreds of years to return to the climax state.
 Even the kind of stability defined as simple lack of change is not always associated with maximum diversity.
-At least in temperate zones, maximum diversity is often found in mid-successional stages, not in the climax community.
 Once a redwood forest matures, for example, the kinds of species and the number of individuals growing on the forest floor are reduced.
 Mathematical models of ecosystems likewise suggest that diversity does not guarantee ecosystem stability  just the opposite, in fact.
 Ecologists are especially interested to know what factors contribute to the resilience of communities because climax communities all over the world are being severely damaged or destroyed by human activities.
@@ -206,9 +201,7 @@ But if improving their hunting luck was the chief motivation for the paintings, 
 Perhaps the paintings were inspired by the need to increase the supply of animals.
 Cave art seems to have reached a peak toward the end of the Upper Paleolithic period, when the herds of game were decreasing. 
 The particular symbolic significance of the cave paintings in southwestern France is more explicitly revealed, perhaps, by the results of a study conducted by researchers Patricia Rice and Ann Paterson.
-For example, wild cattle (bovines) and horses are portrayed more often than we would expect by chance, probably because they were larger and heavier (meatier) than other animals in the environment.
 In addition, the paintings mostly portray animals that the painters may have feared the most because of their size, speed, natural weapons such as tusks and horns, and the unpredictability of their behavior.
-That is, mammoths, bovines, and horses are portrayed more often than deer and reindeer.
 Thus, the paintings are consistent with the idea that the art is related to the importance of hunting in the economy of Upper Paleolithic people.
 Consistent with this idea, according to the investigators, is the fact that the art of the cultural period that followed the Upper Paleolithic also seems to reflect how people got their food.
 But in that period, when getting food no longer depended on hunting large game animals (because they were becoming extinct), the art ceased to focus on portrayals of animals. 
@@ -232,7 +225,6 @@ A significant part of this oil and gas comes from under the North Sea between Gr
 It may be in a pool too small or too far from a potential market to justify the expense of drilling.
 Even given the best extraction techniques, only about 30 to 40 percent of the oil in a given pool can be brought to the surface.
 Moreover, getting petroleum out of the ground and from under the sea and to the consumer can create environmental problems anywhere along the line.
-Spillage from huge oil-carrying cargo ships, called tankers, involved in collisions or accidental groundings (such as the one off Alaska in 1989) can create oil slicks at sea.
 Finally, the refining and burning of petroleum and its products can cause air pollution.
 Advancing technology and strict laws, however, are helping control some of these adverse environmental effects. 
 The soil is the source of these minerals, which are absorbed by the plant with the water from the soil.
@@ -285,17 +277,14 @@ Why does the fossil record not document the series of evolutionary changes durin
 One interpretation regarding the absence of fossils during this important 100-million-year period is that early animals were soft bodied and simply did not fossilize.
 Fossilization of soft-bodied animals is less likely than fossilization of hard-bodied animals, but it does occur.
 Conditions that promote fossilization of soft-bodied animals include very rapid covering by sediments that create an environment that discourages decomposition.
-In fact, fossil beds containing soft-bodied animals have been known for many years. 
 The Ediacara fossil formation, which contains the oldest known animal fossils, consists exclusively of soft-bodied forms.
 This 700-million-year-old formation gives few clues to the origins of modern animals, however, because paleontologists believe it represents an evolutionary experiment that failed.
 It contains no ancestors of modern animal groups.
-It dates to the very early Cambrian period, and it also contains only soft-bodied forms.
 At one time, the animals present in these fossil beds were assigned to various modern animal groups, but most paleontologists now agree that all Tommotian fossils represent unique body forms that arose in the early Cambrian period and disappeared before the end of the period, leaving no descendants in modern animal groups.
 A third fossil formation containing both soft-bodied and hard-bodied animals provides evidence of the result of the Cambrian explosion.
 This fossil formation, called the Burgess Shale, is in Yoho National Park in the Canadian Rocky Mountains of British Columbia.
 Shortly after the Cambrian explosion, mud slides rapidly buried thousands of marine animals under conditions that favored fossilization.
 These fossil beds provide evidence of about 32 modern animal groups, plus about 20 other animal body forms that are so different from any modern animals that they cannot be assigned to any one of the modern groups.
-These unassignable animals include a large swimming predator called Anomalocaris and a soft-bodied animal called Wiwaxia, which ate detritus or algae.
 The Burgess Shale formation also has fossils of many extinct representatives of modern animal groups.
 For example, a well-known Burgess Shale animal called Sidneyia is a representative of a previously unknown group of arthropods (a category of animals that includes insects, spiders, mites, and crabs).
 Fossil formations like the Burgess Shale show that evolution cannot always be thought of as a slow progression.
@@ -324,7 +313,6 @@ In 1815 he published the first modern geological map,   A Map of the Strata of E
 In 1831 when Smith was finally recognized by the Geological Society of London as the   father of English geology,   it was not only for his maps but also for something even more important.
 But as more and more accumulations of strata were cataloged in more and more places, it became clear that the sequences of rocks sometimes differed from region to region and that no rock type was ever going to become a reliable time marker throughout the world.
 Even without the problem of regional differences, rocks present a difficulty as unique time markers.
-Particularly in the younger strata, the rocks were often so similar that he had trouble distinguishing the strata, but he never had trouble telling the fossils apart.
 Some fossils endured through so many millions of years that they appear in many strata, but others occur only in a few strata, and a few species had their births and extinctions within one particular stratum.
 By following the fossils, Smith was able to put all the strata of England's earth into relative temporal sequence.
 Soon it was realized that this principle of faunal (animal) succession was valid not only in England or France but virtually everywhere.
@@ -397,7 +385,6 @@ Most of Africa presents a curious case in which societies moved directly from a 
 Knowledge of iron making penetrated into the forest and savannahs of West Africa at roughly the same time that iron making was reaching Europe.
 Evidence of iron making has been found in Nigeria, Ghana, and Mali.
 This technological shift cause profound changes in the complexity of African societies.
-In West Africa the blacksmith who made tools and  weapons had an important place in society, often with special religious powers and functions.
 Iron hoes, which made the land more productive, and iron weapons, which made the warrior more powerful, had symbolic meaning in a number of West Africa societies.
 Those who knew the secrets of making iron gained ritual and sometimes political power.
 Unlike in the Americas, where metallurgy was a very late and limited development, Africans had iron from a relatively early date, developing ingenious furnaces to produce the high heat needed for production and to control the amount of air that reached the carbon and iron ore necessary for making iron.
@@ -442,7 +429,6 @@ Their calculations show that the impact kicked up a dust cloud that cut off sunl
 This disruption of food chain and climate would have eradicated the dinosaurs and other organisms in less than fifty years.
 Photographic evidence suggests that liquid water once existed in great quantity on the surface of Mars.
 Two types of flow features are seen: runoff channels and outflow channels.
-Runoff channels are found in the southern highlands.
 These flow features are extensive systems  sometimes hundreds of kilometers in total length  of interconnecting, twisting channels that seem to merge into larger, wider channels.
 They bear a strong resemblance to river systems on Earth, and geologists think that they are dried-up beds of long-gone rivers that once carried rainfall on Mars from the mountains down into the valleys.
 Runoff channels on Mars speak of a time 4 billion years ago (the age of the Martian highlands), when the atmosphere was thicker, the surface warmer, and liquid water widespread.
@@ -494,7 +480,6 @@ The third is the development of a collaborative environment with support from ot
 Support and encouragement were also required to help teachers in the program cope with aspects of their professional life with which they were not comfortable.
 Wildman and Niles make a summary comment:   Perhaps the most important thing we learned is the idea of the teacher-as-reflective-practitioner will not happen simply because it is a good or even compelling idea.   
 The work of Wildman and Niles suggests the importance of recognizing some of the difficulties of instituting reflective practice.
-Others have noted this, making a similar point about the teaching profession  s cultural inhibitions about reflective practice.
 Zeichner and Liston (1987) point out the inconsistency between the role of the teacher as a (reflective) professional decision maker and the more usual role of the teacher as a technician, putting into practice the ideas of theirs.
 More basic than the cultural issues is the matter of motivation.
 Becoming a reflective practitioner requires extra work (Jaworski, 1993) and has only vaguely defined goals with, perhaps, little initially perceivable reward and the threat of vulnerability.
@@ -516,8 +501,6 @@ Thus the seed  s chances of survival are greatly enhanced over those of the nake
 One type of seed-bearing plant, the angiosperm, includes all forms of blooming vegetation.
 In the angiosperm the seeds are wrapped in an additional layer of covering.
 Some of these coats are hard Clike the shell of a nut Cfor extra protection.
-Some are soft and tempting, like a peach or a cherry.
-These new characteristics offered better ways for the seed to move to new habitats.
 Remarkably resistant to the vicissitudes of ocean travel, they can survive prolonged immersion in saltwater when they come to rest on warm beaches and the conditions are favorable, the seed coats soften.
 Nourished by their imported supply of nutrients, the young plants push out their roots and establish their place in the sun. 
 By means of these seeds, plants spread more widely to new locations, even to isolated islands like the Hawaiian archipelago, which lies more than 2,000 miles west of California and 3,500 miles east of Japan.
@@ -526,7 +509,6 @@ The seeds of grasses, flowers, and blooming trees made the long trips to these i
 In a surprisingly short time, angiosperms filled many of the land areas on Hawaii that had been bare.
 China has one of the world's oldest continuous civilizations  despite invasions and occasional foreign rule.
 The function and status of ceramics in China varied from dynasty to dynasty, so they may be utilitarian, burial, trade-collectors', or even ritual objects, according to their quality and the era in which they were made.
-The ceramics fall into three broad types  earthenware, stoneware, and porcelain  for vessels, architectural items such as roof tiles, and modeled objects and figures.
 In addition, there was an important group of sculptures made for religious use, the majority of which were produced in earthenware.
 During the Six Dynasties period (AD 265-589), kilns in north China were producing high-fired ceramics of good quality.
 Whitewares produced in Hebei and Henan provinces from the seventh to the tenth centuries evolved into the highly prized porcelains of the Song dynasty (AD.
@@ -591,7 +573,6 @@ Frontality is, however, directly related to the functions of Egyptian statuary a
 Statues were created not for their decorative effect but to play a primary role in the cults of the gods, the king, and the dead.
 They were designed to be put in places where these beings could manifest themselves in order to be the recipients of ritual actions.
 Thus it made sense to show the statue looking ahead at what was happening in front of it, so that the living performer of the ritual could interact with the divine or deceased recipient.
-Very often such statues were enclosed in rectangular shrines or wall niches whose only opening was at the front, making it natural for the statue to display frontality.
 Other statues were designed to be placed within an architectural setting, for instance, in front of the monumental entrance gateways to temples known as pylons, or in pillared courts, where they would be placed against or between pillars: their frontality worked perfectly within the architectural context.
 Statues were normally made of stone, wood, or metal.
 Stone statues were worked from single rectangular blocks of material and retained the compactness of the original shape.
@@ -601,7 +582,6 @@ Apart from statues representing deities, kings, and named members of the elite t
 The function of these is quite different.
 Many are made to be put in the tombs of the elite in order to serve the tomb owners in the afterlife.
 Unlike formal statues that are limited to static poses of standing, sitting, and kneeling, these figures depict a wide range of actions, such as grinding grain, baking bread, producing pots, and making music, and they are shown in appropriate poses, bending and squatting as they carry out their tasks.
-Furthermore, they fly to very specific places in South America and will often come back to the same trees in North American yards the following spring.
 The question is not why they would leave the cold of winter so much as how they find their way around.
 Kramer initiated important new kinds of research regarding how animals orient and navigate.
 Furthermore, he noticed that as they fluttered around in the cage, they often launched themselves in the direction of their normal migratory route.
@@ -622,7 +602,6 @@ In fact, when tapes of begging tree swallows were played at an artificial swallo
 Further evidence for the costs of begging comes from a study of differences in the begging calls of warbler species that nest on the ground versus those that nest in the relative safety of trees.
 The young of ground-nesting warblers produce begging cheeps of higher frequencies than do their tree-nesting relatives.
 David Haskell created artificial nests with clay eggs and placed them on the ground beside a tape recorder that played the begging calls of either tree-nesting or of ground-nesting warblers.
-The eggs   advertised   by the tree-nesters' begging calls were found bitten significantly more often than the eggs associated with the ground-nesters' calls.
 The hypothesis that begging calls have evolved properties that reduce their potential for attracting predators yields a prediction: baby birds of species that experience high rates of nest predation should produce softer begging signals of higher frequency than nestlings of other species less often victimized by nest predators.
 This prediction was supported by data collected in one survey of 24 species from an Arizona forest, more evidence that predator pressure favors the evolution of begging calls that are hard to detect and pinpoint.
 One possibility is that a noisy baby bird provides accurate signals of its real hunger and good health, making it worthwhile for the listening parent to give it food in a nest where several other offspring are usually available to be fed.
@@ -635,7 +614,6 @@ The answer lies apparently not in the increased energy costs of exaggerated begg
 Because close relatives have many of the same genes, animals that harm their close relatives may in effect be destroying some of their own genes.
 Therefore, a begging nestling that secures food at the expense of its siblings might actually leave behind fewer copies of its genes overall than it might otherwise.
 Much of the evidence about right-hand versus left-hand dominance comes from stencils and prints found in rock shelters in Australia and elsewhere, and in many Ice Age caves in France, Spain, and Tasmania.
-Even though the paint was often sprayed on by mouth, one can assume that the dominant hand assisted in the operation.
 One also has to make the assumption that hands were stenciled palm downward  a left hand stenciled palm upward might of course look as if it were a right hand.
 Of 158 stencils in the French cave of Gargas, 136 have been identified as left, and only 22 as right; right-handedness was therefore heavily predominant.
 Cave art furnishes other types of evidence of this phenomenon.
@@ -677,7 +655,6 @@ The filling of the Ataturk and other dams in Turkey has drastically reduced flow
 The flow of exogenous rivers varies with the season.
 The desert sections of long rivers respond several months after rain has fallen outside the desert, so that peak flows may be in the dry season.
 This is useful for irrigation, but the high temperatures, low humidities, and different day lengths of the dry season, compared to the normal growing season, can present difficulties with some crops.
-Endogenous rivers often do not reach the sea but drain into inland basins, where the water evaporates or is lost in the ground.
 Most desert streambeds are normally dry, but they occasionally receive large flows of water and sediment.
 Deserts contain large amounts of groundwater when compared to the amounts they hold in surface stores such as lakes and rivers.
 But only a small fraction of groundwater enters the hydrological cycle  feeding the flows of streams, maintaining lake levels, and being recharged (or refilled) through surface flows and rainwater.
@@ -696,13 +673,10 @@ When an association continues long enough for two people to become linked togeth
 People are bound within relationships by two types of bonds: expressive ties and instrumental ties.
 Through association with people who are meaningful to us, we achieve a sense of security, love, acceptance, companionship, and personal worth.
 Occasionally, this may mean working with instead of against competitors.
-More often, we simply cooperate with others to reach some end without endowing the relationship with any larger significance.
 Sociologists have built on the distinction between expressive and instrumental ties to distinguish between two types of groups: primary and secondary.
 Sometimes primary group relationships evolve out of secondary group relationships.
-People on the job often develop close relationships with coworkers as they come to share gripes, jokes, gossip, and satisfactions.
 A number of conditions enhance the likelihood that primary groups will arise.
 Seeing and talking with one another in close physical proximity makes possible a subtle exchange of ideas and feelings.
-Our ties with people often deepen as we interact with them across time and gradually evolve interlocking habits and interests.
 Within them, infants and children are introduced to the ways of their society.
 Sociologists view primary groups as bridges between individuals and the larger society because they transmit, mediate, and interpret a society's cultural patterns and provide the sense of oneness so critical for social solidarity.
 Second, primary groups are fundamental because they provide the settings in which we meet most of our personal needs.
@@ -757,7 +731,6 @@ The Independent Television Commission, regulator of television advertising in th
 General concern about misleading tactics that advertisers employ is centered on the use of exaggeration.
 Consumer protection groups and parents believe that children are largely ill-equipped to recognize such techniques and that often exaggeration is used at the expense of product information.
 They represent the advertiser's opinions about the qualities of their products or brand and, as a consequence, are difficult to verify.
-Advertisers sometimes offset or counterbalance an exaggerated claim with a disclaimer  a qualification or condition on the claim.
 For example, the claim that breakfast cereal has a health benefit may be accompanied by the disclaimer "when part of a nutritionally balanced breakfast."
 However, research has shown that children often have difficulty understanding disclaimers: children may interpret the phrase "when part of a nutritionally balanced breakfast" to mean that the cereal is required as a necessary part of a balanced breakfast.
 The author George Comstock suggested that less than a quarter of children between the ages of six and eight years old understood standard disclaimers used in many toy advertisements and that disclaimers are more readily comprehended when presented in both audio and visual formats.
@@ -767,7 +740,6 @@ Children have strong imaginations and the use of fantasy brings their ideas to l
 Advertisements for breakfast cereals have, for many years, been found to be especially fond of fantasy techniques, with almost nine out of ten including such content.
 The use of celebrities such as singers and movie stars is common in advertising.
 The intention is for the positively perceived attributes of the celebrity to be transferred to the advertised product and for the two to become automatically linked in the audience's mind.
-In children's advertising, the "celebrities" are often animated figures from popular cartoons.
 In the recent past, the role of celebrities in advertising to children has often been conflated with the concept of host selling.
 The psychologist Dale Kunkel showed that the practice of host selling reduced children's ability to distinguish between advertising and program material.
 Regarding the appearance of celebrities in advertisements that do not involve host selling, the evidence is mixed.
@@ -840,7 +812,6 @@ One interesting test of the Alvarez hypothesis is based on the presence of the r
 Earth  s crust contains very little of this element, but most asteroids contain a lot more.
 Debris thrown into the atmosphere by an asteroid collision would presumably contain large amounts of iridium, and atmospheric currents would carry this material all over the globe.
 A search of sedimentary deposits that span the boundary between the Cretaceous and Tertiary periods shows that there is a dramatic increase in the abundance of iridium briefly and precisely at this boundary.
-This iridium anomaly offers strong support for the Alvarez hypothesis even though no asteroid itself has ever been recovered.
 An asteroid of this size would be expected to leave an immense crater, even if the asteroid itself was disintegrated by the impact.
 The intense heat of the impact would produce heat-shocked quartz in many types of rock.
 Glaciers are slowly moving masses of ice that have accumulated on land in areas where more snowfalls during a year than melts.
@@ -901,7 +872,6 @@ An estimated 99.85 percent of the mass of our solar system is contained within t
 The planets, in order of their distance from the Sun, are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, and Pluto.
 Under the control of the Sun's gravitational force, each planet maintains an elliptical orbit and all of them travel in the same direction.
 The largest terrestrial planet, Earth has a diameter only one quarter as great as the diameter of the smallest Jovian planet, Neptune, and its mass is only one seventeenth as great.
-Hence, the Jovian planets are often called giants.
 Also, because of their relative locations, the four Jovian planets are known as the outer planets, while the terrestrial planets are known as the inner planets.
 There appears to be a correlation between the positions of these planets and their sizes.
 The densities of the terrestrial planets average about 5 times the density of water, whereas the Jovian planets have densities that average only 1.5 times the density of water.
@@ -995,7 +965,6 @@ In the early twentieth century, Denmark exported 63 percent of its agricultural 
 It exported 80 percent of its butter, almost all to Great Britain, where it accounted for 40 percent of British butter imports.
 According to conventional theory, yawning takes place when people are bored or sleepy and serves the function of increasing alertness by reversing, through deeper breathing, the drop in blood oxygen levels that are caused by the shallow breathing that accompanies lack of sleep or boredom.
 Unfortunately, the few scientific investigations of yawning have failed to find any connection between how often someone yawns and how much sleep they have had or how tired they are.
-About the closest any research has come to supporting the tiredness theory is to confirm that adults yawn more often on weekdays than at weekends, and that school children yawn more frequently in their first year at primary school than they do in kindergarten.
 Another flaw of the tiredness theory is that yawning does not raise alertness or physiological activity, as the theory would predict.
 When researchers measured the heart rate, muscle tension and skin conductance of people before, during and after yawning, they did detect some changes in skin conductance following yawning, indicating a slight increase in physiological activity.
 Yawning did nothing special to their state of physiological activity.
@@ -1007,7 +976,6 @@ The lungs of a fetus secrete a liquid that mixes with its mother's amniotic flui
 But, while accepting that not everything in life can be explained by Darwinian evolution, there are sound reasons for being skeptical of theories like this one, which avoid the issue of what yawning does for adults.
 Support for this theory came from a study of yawning behavior in everyday life.
 The data showed that yawning tended to occur about 15 minutes before a period of increased behavioral activity.
-This accords with anecdotal evidence that people often yawn in situations where they are neither tired nor bored, but are preparing for impending mental and physical activity.
 Such yawning is often referred to as "incongruous" because it seems out of place, at least on the tiredness view: soldiers yawning before combat, musicians yawning before performing, and athletes yawning before competing.
 Lightning is a brilliant flash of light produced by an electrical discharge from a storm cloud.
 The electrical discharge takes place when the attractive tension between a region of negatively charged particles and a region of positively charged particles becomes so great that the charged particles suddenly rush together.
@@ -1030,7 +998,6 @@ The formation of the channel is initiated when electrons surge from the cloud ba
 When a stream of these negatively charged electrons comes within 100 meters of the ground it is met by a stream of positively charged particles that comes up from the ground.
 The channel is only a few centimeters in diameter, but that is wide enough for electrons to follow the channel to the ground in the visible form of a flash of lightning.
 The stream of positive particles that meets the surge of electrons from the cloud often arises from a tall pointed structure such as a metal flagpole or a tower.
-That is why the subsequent lightning that follows the completed channel often strikes a tall structure.
 Once a channel has been formed, it is usually used by several lightning discharges, each of them consisting of a stream of electrons from the cloud meeting a stream of positive particles along the established path.
 Sometimes, however, a stream of electrons following an established channel is met by a positive stream making a new path up from the ground.
 In the wake of the Roman Empire's conquest of Britain in the first century A.D., a large number of troops stayed in the new province, and these troops had a considerable impact on Britain with their camps, fortifications, and participation in the local economy.
@@ -1079,7 +1046,6 @@ For his research, Agassiz visited many places in the northern parts of Europe an
 In all these diverse regions, Agassiz saw signs of glacial erosion and sedimentation.
 In flat plains country, he saw moraines (accumulations of earth and loose rock that form at the edges of glaciers) that reminded him of the terminal moraines found at the end of valley glaciers in the Alps.
 The heterogeneous material of the drift (sand, clay, and rocks deposited there) convinced him of its glacial origin.
-It was also apparent that the glaciation occurred in the relatively recent past because the drift was soft, like freshly deposited sediment.
 We now know the age of the glaciation accurately from radiometric dating of the carbon-14 in logs buried in the drift.
 The drift of the last glaciation was deposited during one of the most recent epochs of geologic time, the Pleistocene, which lasted from 1.8 million to 10,000 years ago.
 Along the east coast of the United States, the southernmost advance of this ice is recorded by the enormous sand and drift deposits of the terminal moraines that form Long Island and Cape Cod.
@@ -1140,7 +1106,6 @@ Many complex factors led to the adoption of the new economies, not only at Abu H
 However, the chances of escaping complete destruction are vastly improved if the organism happens to have a mineralized skeleton and dies in a place where it can be quickly buried by sediment.
 Both of these conditions are often found on the ocean floors, where shelled invertebrates (organisms without spines) flourish and are covered by the continuous rain of sedimentary particles.
 On occasion, animals and plants have been preserved after becoming immersed in tar or quicksand, trapped in ice or lava flows, or engulfed by rapid falls of volcanic ash.
-The term "fossil" often implies petrifaction, literally a transformation into stone.
 After the death of an organism, the soft tissue is ordinarily consumed by scavengers and bacteria.
 The empty shell of a snail or clam may be left behind, and if it is sufficiently durable and resistant to dissolution, it may remain basically unchanged for a long period of time.
 Indeed, unaltered shells of marine invertebrates are known from deposits over 100 million years old.
@@ -1153,7 +1118,6 @@ This process is termed "replacement" because solutions have dissolved the origin
 Replacement can be a marvelously precise process, so that details of shell ornamentation, tree rings in wood, and delicate structures in bone are accurately preserved.
 Another type of fossilization, known as carbonization, occurs when soft tissues are preserved as thin films of carbon.
 Leaves and tissue of soft-bodied organisms such as jellyfish or worms may accumulate, become buried and compressed, and lose their volatile constituents.
-The carbon often remains behind as a blackened silhouette.
 Although it is certainly true that the possession of hard parts enhances the prospect of preservation, organisms having soft tissues and organs are also occasionally preserved.
 Insects and even small invertebrates have been found preserved in the hardened resins of conifers and certain other trees.
 X-ray examination of thin slabs of rock sometimes reveals the ghostly outlines of tentacles, digestive tracts, and visual organs of a variety of marine creatures.
@@ -1162,7 +1126,6 @@ The probability that actual remains of soft tissue will be preserved is improved
 Under such conditions, the destructive effects of bacteria are diminished.
 The Middle Eocene Messel Shale (from about 48 million years ago) of Germany accumulated in such an environment.
 Their remains accumulated on the floor of the lake and were then covered by clay and silt.
-Among the superbly preserved Messel fossils are insects with iridescent exoskeletons (hard outer coverings), frogs with skin and blood vessels intact, and even entire small mammals with preserved fur and soft tissue.
 Geothermal energy becomes available in a practical form when underground heat is transferred by water that is heated as it passes through a subsurface region of hot rocks (a heat reservoir) that may be hundreds or thousands of feet deep.
     By far the most abundant form of geothermal energy occurs at the relatively low temperatures of 80   to 180   centigrade.
 Reykjavik, the capital of Iceland, is entirely heated by geothermal energy derived from volcanic heat.
@@ -1212,7 +1175,6 @@ The realization that the physical self has continuity in time, according to this
 A third possibility is that children will not be able to tell their own "life story" until they understand something about the general form stories take, that is, the structure of narratives.
 When parents talk with children about "what we did today" or "last week" or "last year," they guide the children's formation of a framework for talking about the past.
 They also provide children with reminders about the memory and relay the message that memories are valued as part of the cultural experience.
-Furthermore, other studies show that Caucasian American mother-child pairs talk about past events three times more often than do Korean mother-child pairs.
 Thus, the types of social experiences children have do factor into the development of autobiographical memories.
 A final suggestion is that children must begin to develop a "theory of mind"  an awareness of the concept of mental states (feelings, desires, beliefs, and thoughts), their own and those of others  before they can talk about their own past memories.
 Once children become capable of answering such questions as "What does it mean to remember?"
@@ -1221,7 +1183,6 @@ No doubt the ability to talk about one's past represents memory of a different l
 Spartina alterniflora, known as cordgrass, is a deciduous, perennial flowering plant native to the Atlantic coast and the Gulf Coast of the United States.
 It is the dominant native species of the lower salt marshes along these coasts, where it grows in the intertidal zone (the area covered by water some parts of the day and exposed others).
 Nutrient-rich water is brought to the wetlands during each high tide, making a high rate of food production possible.
-Each tidal cycle carries plant material into the offshore water to be used by the subtidal organisms.
 It spreads primarily by underground stems; colonies form when pieces of the root system or whole plants float into an area and take root or when seeds float into a suitable area and germinate.
 Spartina establishes itself on substrates ranging from sand and silt to gravel and cobble and is tolerant of salinities ranging from that of near freshwater (0.05 percent) to that of salt water (3.5 percent).
 Spartina has the ability to take up sulfides and convert them to sulfate, a form of sulfur that the plant can use; this ability makes it easier for the grass to colonize marsh environments.
@@ -1245,7 +1206,6 @@ The calotype was revolutionary in its use of chemically treated paper in which a
 This "negative," as Talbot called it, could then be used to print multiple positive images on another piece of treated paper.
 The daguerreotype was a unique image that reproduced what was in front of the camera lens in minute, unselective detail and could not be duplicated.
 The calotype could be made in series, and was thus the equivalent of an etching or an engraving.
-Its general effect was soft edged and tonal.
 One of the things that most impressed the original audience for photography was the idea of authenticity.
 Nature now seemed able to speak for itself, with a minimum of interference.
 The title Talbot chose for his book, The Pencil of Nature (the first part of which was published in 1844), reflected this feeling.
@@ -1258,7 +1218,6 @@ Because the medium was so prolific, in the sense that it was possible to produce
 Even those artists who were most dependent on photography became reluctant to admit that they made use of it, in case this compromised their professional standing.
 The rapid technical development of photography  the introduction of lighter and simpler equipment, and of new emulsions that coated photographic plates, film, and paper and enabled images to be made at much faster speeds  had some unanticipated consequences.
 Scientific experiments made by photographers such as Eadweard Muybridge (1830-1904) and Etienne-Jules Marey (1830-1904) demonstrated that the movements of both humans and animals differed widely from the way they had been traditionally represented in art.
-Artists, often reluctantly, were forced to accept the evidence provided by the camera.
 The new candid photography  unposed pictures that were made when the subjects were unaware that their pictures were being taken  confirmed these scientific results, and at the same time, thanks to the radical cropping (trimming) of images that the camera often imposed, suggested new compositional formats.
 Sometime after midnight on February 8,1969, a large, bright meteor entered Earth's atmosphere and broke into thousands of pieces, plummeted to the ground, and scattered over an area 50 miles long and 10 miles wide in the state of Chihuahua in Mexico.
 The first meteorite from this fall was found in the village of Pueblito de Allende.
@@ -1343,7 +1302,6 @@ While accepting that this sequence fits the archaeological profile of those site
 In this context the simplicity of a geometric motif may be more apparent than real.
 Motifs of seeming simplicity can encode complex meanings in Aboriginal Australia.
 And has not twentieth-century art shown that naturalism does not necessarily follow abstraction in some kind of predetermine sequence?
-Water enters a lake from inflowing rivers, from underwater seeps and springs, from overland flow off the surrounding land, and from rain falling directly on the lake surface.
 Water leaves a lake via outflowing rivers, by soaking into the bed of the lake, and by evaporation.
 The questions become more complicated when actual volumes of water are considered: how much water enters and leaves by each route?
 Discovering the inputs and outputs of rivers is a matter of measuring the discharges of every inflowing and outflowing stream and river.
@@ -1409,7 +1367,6 @@ Scientists have no direct evidence for recent or ongoing eruptions, but if these
 Millions of years, though, may pass between eruptions.
 Another prominent feature of Mars's surface is cratering.
 The Mariner spacecraft found that the surface of Mars, as well as that of its two moons, is pitted with impact craters formed by meteoroids falling in from space.
-As on our Moon, the smaller craters are often filled with surface matter-mostly dust-confirming that Mars is a dry desert world.
 On the Moon, ancient craters less than 100 meters across (corresponding to depths of about 20 meters) have been obliterated, primarily by meteoritic erosion.
 As on the Moon, the extent of large impact cratering (i.e.
 The detailed appearance of Martian impact craters provides an important piece of information about conditions just below the planet's surface.
@@ -1523,7 +1480,6 @@ Whenever a word including a syllable in which the sound   sag   was to be writte
 the number of signs required had been reduced to 600, and the range of words that could be expressed had widened.
 Texts dealing with economic matters predominated, as they always had done; but at this point works of theology, literature, history, and law also appeared.
 Other innovations of the late fourth millennium include the wheel, probably developed first as a more efficient way of making pottery and then transferred to transport.
-provides the earliest known example from Sumer, a roofed boxlike sledge mounted on four solid wheels.
 The period from 3000 to 1000 B.C.E., when the use of bronze became widespread, is normally referred to as the Bronze Age.
 Some of the earliest human civilizations arose in southern Mesopotamis, in what is now southern Iraq, in the fourth millennium B.C.E.
 In the second half of that millennium, in the south around the city of Uruk, there was an enormous escalation in the area occupied by permanent settlements.
@@ -1536,7 +1492,6 @@ Within the productive sector, there was a growth of a variety of specialist craf
 Early in the Uruk period, the use of undecorated utilitarian pottery was probably the result of specialized mass production.
 In an early fourth-millennium level of the Eanna archaeological site at Uruk, a pottery style appears that is most characteristic of this process, the so-called beveled-rim bowl.
 It is a rather shallow bowl that was crudely made in a mold; hence, in only a limited number of standard sizes.
-For some unknown reason, many were discarded, often still intact, and thousands have been found all over the Near East.
 The beveled-rim bowl is one of the most telling diagnostic finds for indentifying an Uruk-period site.
 A variety of documentation indicates that certain goods, once made by a family member as one of many duties, were later made by skilled artisans.
 Certain images depict groups of people, most likely women, involved in weaving textiles, an activity we know from later third-millennium texts to have been vital in the economy and to have been centrally administered.
@@ -1567,7 +1522,6 @@ For example, given the current position of the Pacific Plate, Hawaii is above th
 So the position of the Pacific Plate 50 million years ago can be determined by moving it such that a 50-million-year-old volcano in the hot-spot trail sits at the location of Hawaii today.
 However, because the ocean basins really are short-lived features on geologic times scales, reconstructing the world  s geography by backtracking along the hot-spot trail works only for the last 5 percent or so of geologic time.
 How do predetors affect populations of the prey animals?
-When experimental populations are set up under simple laboratory conditions, the predator often exterminates its prey and then becomes extinct itself, having nothing left to eat.
 Population cycles are characteristic of small mammals, and they sometimes appear to be brought about by predators.
 The preferred foods of snowshoe hares are willow and birch twigs.
 As hare density increases, the quantity of these twigs decreases, forcing the hares to feed on low-quality, high-fiber food.
@@ -1606,7 +1560,6 @@ At first, they controlled the movement of the herd while ensuring continuance of
 But soon they also gained genetic control of the animals, which led to rapid physical changes in the herd.
 South African farmers who maintain herds of wild eland (large African antelopes with short, twisted horns) report that the offspring soon diminish in size, unless wild bulls are introduced constantly from outside.
 The same effects of inbreeding may have occurred in controlled cattle populations, with some additional, and perhaps unrecognized, advantages.
-We know from rock paintings deep in the Sahara that the herders were soon selecting breeding animals to produce offspring with different horn shapes and hide colors.
 It is still unclear whether domesticated cattle were tamed independently in northern Africa or introduced to the continent from Southwest Asia.Whatever the source of the original tamed herds might have been, it seems entirely likely that much the same process of juxtaposition (living side by side) and control occurred in both Southwest Asia and northern Africa, and even in Europe, among peoples who had an intimate knowledge of the behavior of wild cattle.
 The Saharan people left a remarkable record of their lives painted on the walls of caves deep in the desert.
 Their artistic endeavors have been preserved in paintings of wild animals, cattle, goats, humans, and scenes of daily life that extend back perhaps to 5000 B.C.
@@ -1751,7 +1704,6 @@ Physical separation between subpopulations promotes the formation of new species
 In the absence of gene flow between the subpopulations, genetic differences between the groups begin to accumulate.
 In general, the subpopulations of most species are separated from each other by some measurable distance.
 So even under normal situations the gene flow among the subpopulations is more of an intermittent trickle than a steady stream.
-In addition, barriers can rapidly arise and shut off the trickle.
 For example, in the 1800s a monstrous earthquake changed the course of the Mississippi River, a large river flowing in the central part of the United States of America.
 The change separated populations of insects now living along opposite shore, completely cutting off gene flow between them.
 Geographic isolation also can proceed slowly, over great spans of time.
@@ -1831,7 +1783,6 @@ They were able to do so because of our second consideration.
 Over the course of the Fifth Reign (1868---1910), the ties that bound rural people to the aristocracy and local ruling elites were greatly reduced.
 Peasants now paid a tax on individuals instead of being required to render labor service to the government.
 Under these conditions, it made good sense to thousands of peasant families to in effect work full-time at what they had been able to do only part-time previously because of the requirement to work for the government: grow rice for the marketplace. 
-Provincial police began to appear, along with district officers and cattle registration and land deeds and registration for compulsory military service.
 Village handicrafts diminished or died out completely as people bought imported consumer goods, like cloth and tools, instead of making them themselves.
 As well as can be measured, rural standards of living improved in the Fifth Reign.
 But the statistical averages mean little when measured against the harsh realities of peasant life.
@@ -1853,9 +1804,7 @@ All four species with regular nest distributions were highly aggressive to bees 
 Their observations provide insights into the mechanisms that establish and maintain the regular nest distribution of these species.
 Aggressive species apparently mark prospective nest sites with pheromones, chemical substances secreted by some animals for communication with other members of their species.
 The pheromone secreted by these stingless bees attracts and aggregates members of their colony to the prospective nest site; however, it also attracts workers from other nests.
-The workers from the two colonies faced off in two swarms and displayed and fought with each other.
 In the displays, pairs of bees faced each other, slowly flew vertically to a height of about three meters, and then grappled each other to the ground.
-When the two bees hit the ground, they separated, faced off, and performed another aerial display.
 Evidence suggests that an important stimulus behind the rise of early civilizations was the development of settled agriculture, which unleashed a series of changes in the organization of human communities that culminated in the rise of large ancient empires.
 Many prehistorians believe that farming may have emerged in dependently in several different areas of the world when small communities, driven by increasing population and a decline in available food resources, began to plant seeds in the ground in an effort to guarantee their survival.
 The first farmers, who may have lived as long as 10,000 years ago, undoubtedly used simple techniques and still relied primarily on other forms of food production, such as hunting, foraging, or pastoralism.
@@ -1877,7 +1826,6 @@ In some cases, the physical division within the first cities reflected the stric
 By 1850 the United States possessed roughly 9,000 miles of railroad track; then years later it had over 30,000 miles, more than the rest of the world combined.
 Much of the new construction during the 1850s occurred west of the Appalachian Mountains  C over 2,000 miles in the states of Ohio and Illinois alone.
 The effect of the new railroad lines rippled outward through the economy.
-With their profits they purchased manufactured goods that earlier they might have made at home.
 Before the railroad reached Tennessee, the state produced about 25,000 bushels (or 640 tons) of wheat, which sold for less than 50 cents a bushel.
 The new railroad networks shifted the direction of western trade.
 In 1840 most northwestern grain was shipped south down the Mississippi River to the bustling port of New Orleans.
@@ -1890,7 +1838,6 @@ Cyrus McCormick refined a mechanical reaper that harvested fourteen times more w
 Prairie farmers also introduced new crops that were not part of the earlier ecological system, notably wheat, along with fruits and vegetables.
 Native grasses were replaced by a small number of plants cultivated as commodities.
 In the absence of these fires, trees reappeared on land not in cultivation and, if undisturbed, eventually formed woodlots.
-The earlier unbroken landscape gave way to independent farms, each fenced off in a precise checkerboard pattern.
 It was an artificial ecosystem of animals, woodlots, and crops, whose large, uniform layout made western farms more efficient than the more-irregular farms in the East.
 It was not until the Cambrian period, beginning about 600 million years ago, that a great proliferation of macroscopic species occurred on Earth and produced a fossil record that allows us to track the rise and fall of biodiversity.
 Biodiversity collapsed dramatically during at least five periods because of mass extinctions around the globe.
@@ -1914,7 +1861,6 @@ At locations around the globe, geologists had found an unusually high concentrat
 Most scientist came to accept the meteorite theory after evidence came to light that a circular formation, 180 kilometers in diameter in diameter and centered on the north coast of the Yucatan Peninsula, was created by a meteorite impact about 65 million years ago.
 The arts of the Islamic book, such as calligraphy and decorative drawing, developed during A.D. 900 to 1500, and luxury books are some of the most characteristic examples of Islamic art produced in this period.
 This came about from two major developments: paper became common, replacing parchment as the major medium for writing, and rounded scripts were regularized and perfected so that they replaced the angular scripts of the previous period, which because of their angularity were uneven in height.
-Books became major vehicles for artistic expression, and the artists who produced them, notably calligraphers and painters, enjoyed high status, and their workshops were often sponsored by princes and their courts.
 Before A.D. 900, manuscripts of the Koran (the book containing the teachings of the Islamic religion) seem to have been the most common type of book produced and decorated, but after that date a wide range of books were produced for a broad spectrum of patrons.
 These continued to include, of course, manuscripts of the Koran, which every Muslim wanted to read, but scientific works, histories, romances, and epic and lyric poetry were also copied in fine handwriting and decorated with beautiful illustrations.
 The mosque of Marrakech in Morocco is known as the Kutubiyya, or Booksellers   Mosque, after the adjacent market.
@@ -2006,7 +1952,6 @@ The impulse to produce more food to feed a growing population was satisfied in s
 In addition to the marked changes in abundance observed in phytoplankton over the course of a year, there is also a marked change in species composition.
 This change in the dominant species from season to season is called seasonal succession, and it occurs in a wide variety of locations.
 Under seasonal succession, one or more species dominate the phytoplankton for a shorter or longer period of time and then are replaced by another set of species.
-Considering that seasonal succession is most often and clearly seen in temperate seas, which have a marked change in temperature during a year, temperature has been suggested as a cause.
 This may be one of the factors, but it is unlikely to be the sole cause because there are species that become dominant species at various temperatures.
 Furthermore, temperature changes rather slowly in seawater, and the replacement of dominant species often is much more rapid.
 Yet another explanation is that species succession is a consequence of changes in seawater brought about by the phytoplankton living in it.
@@ -2041,7 +1986,6 @@ These single-celled organisms are the most numerous representatives of the anima
 Under exceptionally favorable conditions, up to a million earthworms (with a total body weight exceeding 450 kilograms) may inhabit an acre of soil.
 Earthworms ingest large quantities of soil, chemically alter it, and excrete it as organic matter called casts.
 In addition, earthworms mix of soil both vertically and horizontally, improving aeration and drainage. 
-In 1841 Edward Forbes was offered the chance to serve as naturalist aboard HMS Beacon, an English Royal Navy ship assigned to survey the Aegean Sea.
 He collected hundreds of different species of animals, and he saw that they were distributed in eight different depth zones, each containing its own distinct assemblage of animal life, the way zones of elevation on the side of a mountain are populated by distinct sets of plants. 
 Forbes also thought he saw, as he later told the British Association, that   the number of species and individuals diminishes as we descend, pointing to a zero in the distribution of animal life as yet unvisited.
 This zero, Forbes casually speculated--he simply extended a line on his graph of animal number versus depth--probably began at a depth of 1,800 feet.
@@ -2110,7 +2054,6 @@ Translocation clearly has a role in the recovery of species that have substantia
 Additionally, translocation of predators or competitors may have negative impacts on other species, resulting in an overall loss of diversity.
 Last but not least of these considerations is the effort and resources required in this type of action, which need to be justified by evidence of the likely benefits. 
 Despite the large number of tranlocations that have taken place, there is surprisingly little evidence of the efficacy of such actions.
-This is partly because many translocations have not been strictly for conservation; neither have they been official nor legal, let alone scientific in their approach.
 This makes appraisal of the method very difficult.
 One key problem is a definition of success.
 Is translocation successful if the individuals survive the first week or a year, or do they need to reproduce for one or several generations  Whatever the answer, it is clear that a general framework is required to ensure that any translocation is justified, has a realistic chance of success, and will be properly monitored and evaluated for the benefit of future efforts. 
@@ -2122,7 +2065,6 @@ Unfortunately, the success stories are at least matched by accounts of failure.
 Reviewing translocation of amphibians and reptiles, researchers C.Kenneth Dodd and Richard A. Siegel concluded that most projects have not demonstrated success as conservation techniques and should not be advocated as though they were acceptable management and mitigation practices.
 At the end of the nineteenth century, there were basically two kinds of buildings in the United States.
 On one hand were the buildings produced for the wealthy or for civic purposes, which tended to echo the architecture of the past and to use traditional styles of ornamentation.
-Such buildings, however, were viewed in a category separate from   fine   architecture, and in fact were often designed by engineers and builders rather than architects.
 The development of modern architecture might in large part be seen as an adaptation of this sort of functional building and its pervasive application for daily use.
 Indeed, in this influential book Toward a New Architecture, the Swiss architect Le Corbusier illustrated his text with photographs of American factories and grain storage silos, as well as ships, airplanes, and other industrial objects.
 The fundamental premise of modern architecture was that the appearance of the building should exhibit the nature of its materials and forms of physical support.
@@ -2137,7 +2079,6 @@ Such buildings were so different from any previous form of architecture that the
 From the standpoint of real estate developers, the purpose of skyscrapers was to increase rental space in valuable urban locations.
 But to create usable high-rise buildings, a number of technical challenges needed to be solved.
 Updated and electrified versions of the freight elevator that had been introduced by Elisha Graves Otis in 1853 (several decades before skyscraper construction) solved this problem.
-The metal supporting buildings became soft when exposed to fire and collapsed relatively quickly.
 (They could melt at 2700 Fahrenheit, whereas major fires achieve temperatures of 3000degrees).
 A structure built with steel beams protected by terra-cotta tiles was still three times lighter than a comparably sized building that used masonry construction, so the weight of the tiles was not a problem.
 Before microscopes were first used in the seventeenth century, no one knew that living organisms were composed of cells.
@@ -2183,13 +2124,11 @@ In the eighteenth century, when the wolfs range included almost all of North Ame
 In such areas, their arboreal habits and the presence of hollow den trees should have offered some protection from wolves and other large predators.
 Even though raccoons may not have been a significant part of their diet, wolves surely would have tried to prey on those exposed in relatively treeless areas.
 Now used in agriculture, there are approximately 109 million acres of transgenic crops grown worldwide, 68 percent of which are in the United States.
-Most often, these plants either contain a gene making them resistant to the herbicide glyphosate or they contain an insect-resistant gene that produces a protein called Bt toxin.
 On the positive side, proponents of transgenic crops argue that these crops are environmentally friendly because they allow farmers to use fewer and less noxious chemicals for crop production.
 For example, a 21 percent reduction in the use of insecticide has been reported on Bt cotton (transgenic cotton that produces Bt toxin).
 On the negative side, opponents of transgenic crops suggest that there are many questions that need to be answered before transgenic crops are grown on a large scale.
 Furthermore, the application of pesticides (the alternative to growing Bt plants) has been demonstrated to cause widespread harm to nontarget insects.
 Another unanswered question is whether herbicide-resistant genes will move into the populations of weeds.
-If the crop plants hybridize and reproduce with weedy relatives, then this herbicide-resistant gene will be perpetuated in the offspring.
 We know that evolution will occur when transgenic plants grown on a large scale over a period of time.
 Of special concern is the development of insect populations resistant to the Bt toxin.
 This pesticide has been applied to plants for decades without the development of insect-resistant populations.
@@ -2202,7 +2141,6 @@ Cuneiform writing lasted for some 3,000 years, in a vast line of succession that
 The oldest cuneiform texts recorded the transactions of tax collectors and merchants, the receipts and bills of sale of an urban society.
 Later, Babylonian scribes recorded the laws and kept other kinds of records.
 As a result, the scribes were assigned their own goddess, Nisaba, later replaced by the god Nabu of Borsippa, whose symbol is neither weapon nor dragon but something far more fearsome, the cuneiform stick. 
-Cuneiform texts on science, astronomy, medicine, and mathematics abound, some offering astoundingly precise data.
 One tablet records the speed of the Moon over 248 days; another documents an early sighting of Halley  s Cornet, form September 22 to September 28, 164 B.C.E.
 More esoteric texts attempt to explain old Babylonian customs, such as the procedure for curing someone who is ill, which included rubbing tar and gypsum on the sick person  s door and drawing a design at the foot of the person  s bed.
 What is clear from the vast body of texts (some 20,000 tablets were found in King Ashurbanipal  s library at Nineveh) is that scribes took pride in their writing and knowledge. 
@@ -2288,7 +2226,6 @@ Structure is essentially the architecture of vegetation, and as in the case of s
 In a mature floodplain tropical forest in the Amazon River basin, the canopy (the uppermost layers of a forest, formed by the crowns of trees) takes on a stratified structure.
 There are three dear peaks in leaf cover at heights of approximately 3,6, and 30 meters above the ground; and the very highest layer, at 50 meters, corresponds to the very tall trees that stand free of the main canopy and form an open layer of their own.
 So, such a forest contains essentially four layers of canopy.
-Forests in temperate lands often have just two canopy layers, so they have much less complex architecture.
 It even affects the climate on a very local level (the "microclimate') by influencing light intensity, humidity, and both the range and extremes of temperature.
 An area of grassland vegetation with very simple structure, for example, has a very differed microclimate at the ground level from that experienced in the upper canopy.
 The complexity of the microclimate is closely related to the complexity of structure in vegetation, and generally speaking, the more complex the structure of vegetation, the more speeds of animal are able to make a living there.
@@ -2340,7 +2277,6 @@ At first, this would have had little effect on the oceans of Venus.
 Although the temperature would have climbed above 100   C, the boiling point of water at sea level on Earth, the added atmospheric pressure from water vapor would have kept the water in Venus' oceans in the liquid state.
 This hot and humid state of affairs may have persisted for several hundred million years.
 This liberated carbon dioxide formed the thick atmosphere of present-day Venus.
-Over time, the rising temperatures would have leveled off, solar ultraviolet radiation having broken down atmospheric water vapor molecules into hydrogen and oxygen.
 Bartering was a basic trade mechanism for many thousands of years; often sporadic and usually based on notions of reciprocity, it involved the mutual exchange of commodities or objects between individuals or groups.
 Redistribution of these goods through society lay in the hands of chiefs, religious leaders, or kin groups.
 The change from redistribution to formal trade-often based on regulated commerce that perhaps involved fixed prices and even currency  was closely tied to growing political and social complexity and hence to the development of the state in the ancient world.
@@ -2357,7 +2293,6 @@ Rathje s hypothesis probably explains part of the complex process of Mayan state
 It could be, too, that warfare became a competitive response to population growth and to the increasing scarcity of prime agricultural land, and that it played an important role in the emergence of the Mayan states.
 Now that we know much more about ancient exchange and commerce, we know that, because no one aspect of trade was an overriding cause of cultural change or evolution in commercial practices, trade can never be looked on as a unifying factor or as a primary agent of ancient civilization.
 There were also the logistics of transportation, the extent of the trading network, and the social and political environment.
-Authorities at both ends might regulate the profits fed back to the source, providing the incentive for further transactions.
 Extensive long-distance trade was a consequence rather than a cause of complex societies.
 A key event in the origin of many species is the separation of a population with its gene pool (all of the genes in a population at any one time) from other populations of the same species, thereby preventing population interbreeding.
 In the formation of many species, the initial isolation of a population seems to have been a geographic barrier.
@@ -2406,7 +2341,6 @@ This tells us that Callisto has far less of the rocky metallic materials found i
 Callisto has not fully differentiated, meaning separated into layers of different density materials.
 Astronomers can tell that it lacks a dense core from the details of its gravitational pull on the Galileo spacecraft during several very close flybys.
 This fact surprised scientists, who expected that all the big icy moons would be differentiated It is much easier for an icy body to differentiate than for a rocky one, since the melting temperature of ice is so low.
-Only a little heating will soften the ice and get the process started, allowing the rock and metal to sink to the center and the slushy ice to float to the surface.
 Yet Callisto seems to have frozen solid before the process of differentiation was complete.
 Like our Moon  s highlands, the surface of Callisto is covered with impact craters.
 The survival of these craters tells us that an icy object can form and retain impact craters in its surface.
@@ -2435,7 +2369,6 @@ In decision making, the whole body of citizens together would have the necessary
 This implied that the city-state was based on the idea that citizens were not specialists but had multiple interests and talents    each a so-called jack-of-all-trades who could engage in many areas of life and politics.
 It implied a respect for the wholeness of life and a consequent dislike of specialization.
 But with the development of trade and commerce in Alexander  s empire came the growth of cities; it was no longer possible to be a jack-of-all-trades.
-One now had to specialize, and with specialization came professionalism.
 There were getting to be too many persons to know, an easily observable community of interests was being replaced by a multiplicity of interests.
 Third, Greek philosophy was opened up to the philosophy and religion of the East At the peak of the Greek city-state, religion played an important part.
 Its gods  such as Zeus, father of the gods, and his wife Hera  were thought of very much as being like human beings but with superhuman abilities.
@@ -2470,9 +2403,7 @@ In fact, this is the time of year they traditionally set aside to tend to their 
 The residents of the region have given this phenomenon the name of El  Nifio  ,which is Spanish for "the child," because it occurs at about the time of the celebration of birth of the Christ child.
 In these situations, water temperatures are raised not just along the coast, but for thousands of kilometers offshore.
 During the past 60 years, at least ten El Nifios have been observed Not only do El Niftos affect the temperature of the equatorial Pacific, but the strongest of them impact global weather.
-The processes that interact to produce an El  Nifio involve conditions all across the Pacific, not just in the waters off South America.
 Over 60 years ago, Sir Gilbert Walker, a British scientist, discovered a connection between surface pressure readings at weather stations on the eastern and western sides of the Pacific.
-In fact, the link between the two is so great that they are often referred to jointly as ENSO (El Nino-Southern Oscillation).
 The western Pacific develops a thick, warm layer of water while the eastern Pacific has the cold Humboldt Current enhanced by upwelling.
 The eastward shift signals the beginning of an El  Nifio.
 Scientists try to document as many past El Nino events as possible by piecing together bits of historical evidence, such as sea-surface temperature records, daily observations of atmospheric pressure and rainfall, fisheries   records from South America, and the writings of Spanish colonists dating back to the fifteenth century.
@@ -2504,7 +2435,6 @@ Did some of the great masters of painting, then, trace their images using a came
 Some ait historians are now looking for clues of artists' use of such devices.
 One of the artists whose paintings are being analyzed from this point of view is the great Dutch master, Jan Vermeer, who lived from 1632 to 1675 during the flowering of art and science in the Netherlands, including the science of optics.
 Vermeer produced only about 30 known paintings, including his famous The Art of Painting.
-The room shown in it closely resembles the room in other Vermeer paintings, with lighting coming from a window on the left, the same roof beams, and similar floor tiles, suggesting that the room was fitted with a camera obscura on the side in the foreground.
 The map hung on the opposite wall was a real map in Vermeers possession, reproduced in such faithful detail that some kind of tracery is suspected.
 When one of Vermeer  s paintings was X-rayed, it did not have any preliminary sketches on the canvas beneath the paint, but rather the complete image drawn in black and white without any trial sketches.
 Vermeer did not have any students, did not keep any records, and did not encourage anyone to visit his studio, facts that can be interpreted as protecting his secret use of a camera obscura.
@@ -2548,7 +2478,6 @@ The first was the discovery of a 1,000-square-kilometer preserved patch of Berin
 Investigations of the plants found grasses, sedges, mosses, and many other varieties in a nearly continuous cover, as was predicted by Guthrie.
 But this vegetation had a thin root mat with no soil formation, demonstrating that there was little long-term stability in plant cover, a finding supporting some of the arguments of Colinvaux.
 A mixture of continuous but thin vegetation supporting herds of large mammals is one that seems plausible and realistic with the available data.
-Wind pollination is often seen as being primitive and wasteful in costly pollen and yet it is surprisingly common, especially in higher latitudes.
 Wind is very good at moving pollen a long way; pollen can be blown for hundreds of kilometers, and only birds can get pollen anywhere near as far.
 It is like trying to get a letter to a friend at the other end of the village by climbing onto the roof and throwing an armful of letters into the air and hoping that one will end up in the friend's garden.
 For the relatively few dominant tree species that make up temperate forests, where there are many individuals of the same species within pollen range, this is quite a safe gamble.
@@ -2564,7 +2493,6 @@ Indeed, pollen can travel many thousands of kilometers at high altitudes.
 Since all this pollen is floating around in the air, it is no wonder that wind-pollinated trees are a major source of allergies.
 Once the pollen has been snatched by the wind, the fate of the pollen is obviously up to the vagaries of the wind, but not everything is left to chance.
 Windbome pollen is dry, rounded, smooth, and generally smaller than that of insect-pollinated plants.
-In the open sea, animals can often find food reliably available in particular regions or seasons (e g., in coastal areas in springtime).
 In these circumstances, animals are neither constrained to get the last calorie out of their diet nor is energy conservation a high priority.
 In contrast, the food levels in the deeper layers of the ocean are greatly reduced, and the energy constraints on the animals are much more severe To survive at those levels, animals must maximize their energy input, finding and eating whatever potential food source may be present.
 In the near-surface layers, there are many large, fast carnivores as well as an immense variety of planktonic animals, which feed on plankton (small, free-floating plants or animals) by filtering them from currents of water that pass through a specialized anatomical structure These filter-feeders thrive in the well-illuminated surface waters because oceans have so many very small organisms, from bacteria to large algae to larval crustaceans.
@@ -2589,7 +2517,6 @@ So when a conqueror set a Mesopotamian palace ablaze, he helped ensure the survi
 In the Near East they remained in use for more than two and a half millennia, and in certain areas they lasted down to the beginning of the common era until finally yielding, once and for all, to more convenient alternatives.
 The Sumerians perfected a style of writing suited to clay.
 This script consists of simple shapes, basically just wedge shapes and lines that could easily be incised in soft clay with a reed or wooden stylus; scholars have dubbed it cuneiform from the wedge-shaped marks (cunei in Latin) that are its hallmark Although the ingredients are merely wedges and lines, there are hundreds of combinations of these basic forms that stand for different sounds or words.
-Learning these complex signs required long training and much practice; inevitably, literacy was largely limited to a small professional class, the scribes.
 The Akkadians conquered the Sumerians around the middle of the third millennium B.C.E., and they took over the various cuneiform signs used for writing Sumerian and gave them sound and word values that fit their own language.
 The literature of the Sumerians was treasured throughout the Near East, and long after Sumerian ceased to be spoken, the Babylonians and Assyrians and others kept it alive as a literary language, the way Europeans kept Latin alive after the fall of Rome.
 For the scribes of these non-Sumerian languages, training was doubly demanding since they had to know the values of the various cuneiform signs for Sumerian as well as for their own language.
@@ -2602,7 +2529,6 @@ Now and then these files include pieces of writing that are of a distinctly diff
 Beginning in the 1160s, the opening of new silver mines in northern Europe led to the minting and circulation of vast quantities of silver coins.
 The widespread use of cash greatly increased the volume of international trade.
 The individual traveling merchant who alone handled virtually all aspects of exchange evolved into an operation invoh/ing three separate types of merchants: the sedentary merchant who ran the "home office," financing and organizing the firm  s entire export-import trade; the carriers who transported goods by land and sea; and the company agents resident in cities abroad who, on the advice of the home office, looked after sales and procurements.
-Commercial accounting became more complex when firms had to deal with shareholders, manufacturers, customers, branch offices, employees, and competing firms.
 The growth of mutual trust among merchants facilitated the growth of sales on credit and led to new developments in finance, such as the bill of exchange, a device that made the long, slow, and very dangerous shipment of coins unnecessary.
 The ventures of the German Hanseatic League illustrate these advancements.
 The Hanseatic League was a mercantile association of European towns dating from 1159.
@@ -2637,7 +2563,6 @@ After the Roman Empire  s conquest of Britain in the first century A.D., the pre
 Cultural influences were of three types: the bringing of objects, the transfer of craft workers, and the introduction of massive civil architecture.
 Many objects were not art in even the broadest sense and comprised utilitarian items of clothing, utensils, and equipment.
 The flooding of Britain with red-gloss pottery form Gaul (modern-day France), decorated with scenes from Classical mythology, probably brought many into contact with the styles and artistic concepts of the Greco-Roman world for the first time, whether or not the symbolism was understood.
-Such pieces perhaps first came with officials for their own religious worship; others were then acquired by native leaders as diplomatic gifts or by purchase.
 In the most extreme instances, natives literally bought the whole package of Roman culture.
 The Fishbourne villa, built in the third quarter of the first century A.D., probably for the native client king Cogidubnus, amply illustrates his Roman pretensions.
 A visitor from Rome would have recognized its owner as a participant in the contemporary culture of the empire, not at all provincial in taste.
@@ -2654,11 +2579,9 @@ But the effect of Roman civil architecture was significant.
 The sheer size of space enclosed within buildings like the basilica of London must have been astonishing.
 This was an architecture of dominance in which subject peoples were literally made to feel small by buildings that epitomized imperial power.
 Supremacy was accentuated by the unyielding straight lines of both individual buildings and planned settlements since these too provided a marked contrast with the natural curvilinear shapes dominant in the native realm.
-Termites, social insects which live in colonies that, in some species, contain 2 million individuals or more, are often incorrectly referred to as white ants.
 Ants and the other social members of their order, certain bees and wasps, have complete metarnorphosis in four life stages; egg, larva, pupa, and adult.
 The worker and soldier castes of social ants, bees, and wasps consist of only females, all daughters of a single queen that mated soon after she matured and thereafter never mated again.
 The worker and soldier castes of termites consist of both males and females, and the queen lives permanently with a male consort. 
-Since termites are small and soft-bodied, they easily become desiccated and must live in moist places with a high relative humidity.
 They do best when the relative humidity in their nest is above 96 percent and the temperature is fairly high, an optimum of about 79  F for temperate zone species and about 86  F for tropical species.
 Among the most architecturally advanced of these termites is an African species, Macroternes natalensis.
 Renowned Swiss entomologist Martin Luscher described the mounds of this fungus-growing species as being as much as 16 feet tall, 16 feet in diameter at their base, and with a cement-like wall of soil mixed with termite saliva that is from 16 to 23 inches thick.
@@ -2735,7 +2658,6 @@ In cities, where less vegetation and exposed soil exist, the majority of the Sun
 The cause of the urban heat island is quite involved.
 Depending on the location, time of year, and time of day, any or all of the following differences between cities and their surroundings can be important: albedo (reflectivity of the surface), surface roughness, emissions of heat, emissions of moisture, and emissions of particles that affect net radiation and the growth of cloud droplets.
 At night, the solar energy (stored as vast quantities of heat in city buildings and roads) is slowly released into the city air.
-Additional city heat is given off at night (and during the day) by vehicles and factories, as well as by industrial and domestic heating and cooling units.
 The release of heat energy is retarded by the tall vertical city walls that do not allow infrared radiation to escape as readily as does the relatively level surface of the surrounding countryside.
 The slow release of heat tends to keep nighttime city temperatures higher than those of the faster-cooling rural areas.
 The constant outpouring of pollutants into the environment may influence the climate of the city.
@@ -2783,7 +2705,6 @@ But by 1500, after only 45 years of the printed book, there were 9 million in ci
 The Industrial Revolution had several roots, one of which was a commercial revolution that, beginning as far back as the sixteenth century, accompanied Europe  s expansion overseas.
 An increasingly larger portion of the stepped-up commercial activity was the result of trade with overseas colonies.
 Imports included a variety of new beverages, spices, and ship  s goods around the world and brought money flowing back.
-Europe  s economic institutions, particularly those in England, were strong, had wealth available for new investment, and seemed almost to be waiting for some technological breakthrough that would expand their profit-making potential even more.
 The breakthrough came in Great Britain, where several economic advantages created a climate especially favorable to the encouraged of new technology.
 One was its geographic location at the crossroads of international trade.
 Because water transportation was the cheapest means of carrying goods to market, canals reduced prices and thus increased consumer demand.
