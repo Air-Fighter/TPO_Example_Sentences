@@ -5,9 +5,10 @@ def load_sents(script_file='data/TPO1-49ReadingScripts.txt'):
 
     sentences = []
     for line in script:
-        line = line[:-2]
+        line = line.strip()
         if line.find(".") > 0:
             for sent in nltk.sent_tokenize(line):
+                sent = sent.lower()
                 sentences.append(sent)
 
 
@@ -16,7 +17,8 @@ def load_sents(script_file='data/TPO1-49ReadingScripts.txt'):
 def load_words(file='data/N_General_Service_List.txt'):
     words = []
     for line in open(file):
-        line = line[:-2]
+        line = line.strip()
+        line = line.split(' ')
         words.append(line)
 
     return words
